@@ -1,0 +1,81 @@
+body{
+	margin: 10px auto;
+}
+
+.loginForm2{
+	height: 90%;
+	width: 60%;
+	margin:  auto;
+	padding-top: 50px;
+	background-image: linear-gradient(#da15c7,#da15c7,blue, blue);
+}
+
+.content{
+	height:80%;
+	width: 40%;
+	background: white;
+	margin:  auto;
+	text-align: center;
+	padding-top: 30px;
+}
+
+
+.form .labels{
+	height: 35px;
+	width: 80%;
+	margin: 10px auto;
+	border: none;
+	padding-left:20px;
+	background: #e9e5e5;
+}
+
+.check {
+	margin-right: 150px;
+	color: #e9e5e5;
+	font-size: 15px;
+}
+
+.button{
+	height: 35px;
+	width: 80%;
+	background: #da15c7;
+	border: none;
+	color: white;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+p{
+	font-size: 12px;
+	color: #8b8981;
+}
+
+.social button{
+	height: 35px;
+	width: 38%;
+	background: white;
+	border: 1px solid #e9e5e5;
+}
+
+.social #facebook button {
+	margin-right: 7px;
+	color: blue;
+	font-weight: bold;
+}
+
+.social #google button{
+	margin-left: 7px;
+	color: black;
+	font-weight: bold;
+}
+
+.footer{
+	font-size: 12px;
+	color: #e9e5e5;
+	margin-top: 75px;
+}
+
+.footer a{
+	color: #e9e5e5;
+	margin-left: 5px;
+}
